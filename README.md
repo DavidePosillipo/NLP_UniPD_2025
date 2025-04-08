@@ -29,8 +29,13 @@ Il corso tratterà nel corso di due giorni questi argomenti:
 
 Il corso sarà composto, per ogni sezione, di una parte teorica e di una parte pratica che condurrò tramite Jupyter Notebook. Ogni notebook verrà pushato su questo repo prima della sessione pratica. In base all'argomento e al tempo a disposizione, agli studenti verrà chiesto di fare alcuni esperimenti partendo dalla base dei miei notebook. Visti i tanti argomenti e il poco tempo a disposizione, però, tendenzialmente le parti pratiche verranno commentate direttamente da me. 
 
-## Set-up
-Il repository è stato creato come progetto uv. uv è un tool estremamente veloce e pratico per gestire pacchetti e dipendenze in Python (un'evoluzione di pip). 
+## Requisiti
+Sulle vostre macchine dovete aver installato:
+- Python 3
+- git
+
+## Set-up per esercitazioni
+Il repository è stato creato come progetto uv (https://docs.astral.sh/uv/). uv è un tool estremamente veloce e pratico per gestire pacchetti e dipendenze in Python (un'evoluzione di pip). 
 
 Per impostare l'ambiente in cui svolgeremo le esercitazioni, segui i seguenti step:
 1. Clona questo repository in una cartella sulla tua macchina
